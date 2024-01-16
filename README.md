@@ -2,7 +2,7 @@
 1) Instalar todas dependências iniciais padrão do Node.
 
 2) Configurar o package.json
-3) Rodar o docker: docker run --name mysql -e MYSQL_ROOT_PASSWORD=mySqlPass2023@ -p 3306:3306 -d  mysql
+3) Rodar o docker: docker run --name mysql -e MYSQL_ROOT_PASSWORD=SENHA -p PORT:PORT-d  mysql
 
 ## TECNOLOGIAS
 
